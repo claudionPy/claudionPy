@@ -6,10 +6,10 @@
 - ♾️ Arduino
 - 🐧 General Embedded Linux Systems
 - 🛠️ Already built projects:
--     SmartPrice -> A price panel (built for gas stations) with 2 or more Led Matrices you can control trough a web app
--     EasyPump   -> An easy system to control a submersible pump (water) with a web app
+-     SmartPrice -> A price panel with 2 or more Led Matrices you can control trough a web app
+-     EasyPump -> An easy system to control a submersible pump (water) with a web app
 - 🚧 Next to build:
--     NextSelf   -> A self-service system to enable a fuel dispenser after authenticating the customer
+-     NextSelf -> A self-service system to enable a fuel dispenser after authenticating the customer
 - 📬 Contacts:
 -    Monday-Saturday, 9:00 AM - 18:00 PM -> UTC +2
 -     email: lopreiatoclaudio.projects@gmail.com
