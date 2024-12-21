@@ -1,17 +1,8 @@
-- 👋 Hi, I’m @claudionPy, but you can call me just Claudio, I'm a simple guy from Italy
+- 👋 Hi, I’m @claudionPy, but you can call me Claudio, I'm a simple guy from Italy
 - 🧑‍💼 I'm a Software Developer working on my own
 - 🖥️ My skill set includes: Python, HTML, JS, CSS
 - 📟 I'm a high qualified electronic, working with:
 - 🍓 Raspberry Pi (unfortunately there wasn't a Raspberry emoji)
 - ♾️ Arduino
-- 🐧 General Embedded Linux Systems
-- 🛠️ Already built projects:
--     SmartPrice -> A price panel with 2 or more Led Matrices you can control trough a web app
--     EasyPump -> An easy system to control a submersible pump (water) with a web app
-- 🚧 Next to build:
--     NextSelf -> A self-service system to enable a fuel dispenser after authenticating the customer
-- 📬 Contacts:
--    Monday-Saturday, 9:00 AM - 18:00 PM -> UTC +2
--     email: lopreiatoclaudio.projects@gmail.com
--     Phone Number: +39 3334078728
+- 🐧 Embedded Linux Systems
   
