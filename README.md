@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @claudionPy, but you can call me Claudio, I'm a simple guy from Italy
-- 🧑‍💼 I'm a Software Developer working on my own
-- 🖥️ My skill set includes: Python, C, C++, JS, HTML, CSS
-- 🐧 Certified on Embedded Systems and Fuel Dispensers Electronics/Softwares
-- 🍓 Raspberry Pi
-- ♾️ Arduino
-  
+👋 Hi, I'm Claudio!
+I'm a Software Developer with a passion for building efficient and reliable applications.
+
+💻 My main interests include:
+
+    Embedded systems software (working with electronic boards)
+    Backend development (server-side applications)
+    Web applications (modern and scalable solutions)
+
+🚀 Always exploring new technologies to improve performance and scalability.
